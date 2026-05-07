@@ -71,7 +71,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -87,9 +87,9 @@
   <string role="key" value="_name"></string>
   <unicode value="Actividad_2b"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="26"></int>
+  <int value="27"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="23"></int>
+  <int value="25"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -707,7 +707,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="307"></int>
+                        <int value="316"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -721,7 +721,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="3_128_2.7"></unicode>
+                      <unicode value="3_128_2.8"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="14">
                        <dictionary>
@@ -732,7 +732,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img0.1.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\paula\\appdata\\local\\temp\\tmpfe7wsu\\img0.1.png"></string>
+                        <string value="c:\\users\\paula\\appdata\\local\\temp\\tmppbsh7x\\img0.1.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="70d91746f1382d5d27840a33eecb98cc"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -761,7 +761,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="8"></int>
+                 <int value="9"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="13"></reference>
                 </dictionary>
@@ -939,7 +939,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="308"></int>
+                        <int value="317"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -953,7 +953,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="4_129_2.7"></unicode>
+                      <unicode value="4_129_2.8"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="18">
                        <dictionary>
@@ -964,7 +964,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img0.2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\paula\\appdata\\local\\temp\\tmpfe7wsu\\img0.2.png"></string>
+                        <string value="c:\\users\\paula\\appdata\\local\\temp\\tmppbsh7x\\img0.2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="0e47add382fe5912ef93001dd967462c"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -993,7 +993,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="8"></int>
+                 <int value="9"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="17"></reference>
                 </dictionary>
@@ -1176,7 +1176,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="301"></int>
+                           <int value="310"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1190,7 +1190,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="20_129_2.28"></unicode>
+                         <unicode value="20_129_2.35"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="22">
                           <dictionary>
@@ -1201,7 +1201,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="3fotosjuntas.JPG"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmpfe7wsu\\3fotosjuntas.JPG"></string>
+                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmppbsh7x\\3fotosjuntas.JPG"></string>
                            <string role="key" value="checksum"></string>
                            <string value="fb7223515bf2bbe95823281d8f2fe548"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1228,7 +1228,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="302"></int>
+                           <int value="311"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1242,7 +1242,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="20_129_2.29"></unicode>
+                         <unicode value="20_129_2.36"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="23">
                           <dictionary>
@@ -1253,7 +1253,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Escala.JPG"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmpfe7wsu\\Escala.JPG"></string>
+                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmppbsh7x\\Escala.JPG"></string>
                            <string role="key" value="checksum"></string>
                            <string value="e20fedeea2f0edd94edb054642744904"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1280,7 +1280,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="303"></int>
+                           <int value="312"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1294,7 +1294,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="20_129_2.30"></unicode>
+                         <unicode value="20_129_2.37"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="24">
                           <dictionary>
@@ -1305,7 +1305,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Formula1.JPG"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmpfe7wsu\\Formula1.JPG"></string>
+                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmppbsh7x\\Formula1.JPG"></string>
                            <string role="key" value="checksum"></string>
                            <string value="8c81d6fc671ce2b318b7006fa2a931b7"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1332,7 +1332,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="304"></int>
+                           <int value="313"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1346,7 +1346,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="20_129_2.31"></unicode>
+                         <unicode value="20_129_2.38"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="25">
                           <dictionary>
@@ -1357,7 +1357,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Formula2.JPG"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmpfe7wsu\\Formula2.JPG"></string>
+                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmppbsh7x\\Formula2.JPG"></string>
                            <string role="key" value="checksum"></string>
                            <string value="4c59ea250645955f5c228dbc806a25a8"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1384,7 +1384,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="305"></int>
+                           <int value="314"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1398,7 +1398,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="20_129_2.32"></unicode>
+                         <unicode value="20_129_2.39"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="26">
                           <dictionary>
@@ -1409,7 +1409,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Formula3.JPG"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmpfe7wsu\\Formula3.JPG"></string>
+                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmppbsh7x\\Formula3.JPG"></string>
                            <string role="key" value="checksum"></string>
                            <string value="19ee9f8381a15c6cabc78672cbc05ba6"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1436,7 +1436,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="306"></int>
+                           <int value="315"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1450,7 +1450,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="20_129_2.33"></unicode>
+                         <unicode value="20_129_2.40"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="27">
                           <dictionary>
@@ -1461,7 +1461,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Formula4.JPG"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmpfe7wsu\\Formula4.JPG"></string>
+                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmppbsh7x\\Formula4.JPG"></string>
                            <string role="key" value="checksum"></string>
                            <string value="93425a4f72d133690dee36f8e4af17ca"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1488,7 +1488,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="309"></int>
+                           <int value="318"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1502,7 +1502,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="20_129_2.34"></unicode>
+                         <unicode value="20_129_2.41"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="28">
                           <dictionary>
@@ -1513,7 +1513,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Mapa_2.JPG"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmpfe7wsu\\Mapa_2.JPG"></string>
+                           <string value="c:\\users\\paula\\appdata\\local\\temp\\tmppbsh7x\\Mapa_2.JPG"></string>
                            <string role="key" value="checksum"></string>
                            <string value="4818fc9c8e7cebd3e65de8b804f1b6a4"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1542,7 +1542,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="35"></int>
+                    <int value="42"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="21"></reference>
                    </dictionary>
@@ -2729,7 +2729,7 @@
             <instance class="exe.engine.jsidevice.JsIdevice" reference="46">
              <dictionary>
               <string role="key" value="_title"></string>
-              <unicode value="Sda:  Construyendo ideas, diseñando espacios"></unicode>
+              <unicode value=""></unicode>
               <string role="key" value="_attributes"></string>
               <list>
                <tuple>
@@ -2782,7 +2782,7 @@
               <string role="key" value="edit"></string>
               <bool value="0"></bool>
               <string role="key" value="emphasis"></string>
-              <int value="1"></int>
+              <int value="0"></int>
               <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
               <int value="1"></int>
               <string role="key" value="fields"></string>
@@ -2805,124 +2805,124 @@
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;table style=&quot;border-style: solid; border-color: #000000;&quot; border=&quot;1&quot;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 141.969px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Criterio&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 331.797px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Excelente (4)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 241.297px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Adecuado (3)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 212.922px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;En proceso (2)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 220.312px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Inicial (1)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 44.6406px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Peso&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 141.969px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Contenido&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 331.797px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Incluye toda la información relevante del proyecto (cálculos, escalas, ODS, conclusiones) con gran claridad y precisión.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 241.297px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Incluye la mayor parte de la información, con pequeñas imprecisiones.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 212.922px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Falta información importante o hay errores en algunos contenidos.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 220.312px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Información incompleta o poco relacionada con la tarea.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 44.6406px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;30%&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 141.969px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Diseño visual&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 331.797px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Presentación muy clara, atractiva y bien organizada. Uso adecuado de imágenes, colores y elementos interactivos.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 241.297px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Diseño ordenado y comprensible, aunque mejorable en organización o estética.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 212.922px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Diseño poco claro o con escasa organización visual.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 220.312px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Presentación desordenada o difícil de interpretar.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 44.6406px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;25%&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 141.969px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Ortografía y expresión escrita&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 331.797px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;No presenta faltas y la redacción es clara y correcta.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 241.297px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Presenta errores menores que no dificultan la comprensión.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 212.922px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Hay varios errores que afectan parcialmente a la comprensión.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 220.312px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Abundantes errores que dificultan entender la información.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 44.6406px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;15%&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 141.969px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Originalidad y creatividad&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 331.797px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Presenta soluciones creativas, enfoque propio y uso original de recursos.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 241.297px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Muestra cierta creatividad y algunas aportaciones propias.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 212.922px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Escasa originalidad o uso muy básico de recursos.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 220.312px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Trabajo muy poco elaborado o reproducción mecánica de información.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 44.6406px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;20%&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 141.969px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Presentación oral&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 331.797px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Explica la infografía con claridad, seguridad y responde adecuadamente a preguntas.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 241.297px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Explica correctamente la mayor parte del trabajo.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 212.922px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Presentación poco clara o con dificultades para justificar decisiones.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 220.312px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;No logra explicar el trabajo de forma comprensible.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;border-style: solid; border-color: #000000;&quot;&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 44.6406px;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;10%&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
@@ -3249,26 +3249,303 @@
            <list></list>
           </dictionary>
          </instance>
+         <instance class="exe.engine.node.Node" reference="54">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Rúbrica Podcast"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="52">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="53">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="127_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="52"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;table style=&quot;border-style: solid; border-color: #000000;&quot; border=&quot;1&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 141.969px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Criterio&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 331.797px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Excelente (4)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 241.297px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Adecuado (3)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 212.922px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;En proceso (2)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 220.312px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Inicial (1)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 44.6406px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Peso&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 141.969px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Contenido&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 331.797px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;El podcast sigue completamente el guion, incluye todas las partes y presenta la información de forma clara y bien organizada.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 241.297px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Incluye la mayoría de las partes del guion con una estructura adecuada.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 212.922px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Falta alguna parte importante o el orden no es del todo claro.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 220.312px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;No sigue el guion o presenta una estructura desorganizada.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 44.6406px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;30%&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 141.969px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Expresión oral y comunicación&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 331.797px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Expresión clara, fluida y segura. Entonación adecuada y excelente comprensión del mensaje.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 241.297px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Expresión generalmente clara, con pequeños errores de fluidez o entonación.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 212.922px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Dificultades de fluidez o claridad que afectan parcialmente a la comprensión.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 220.312px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Dificultades importantes que impiden comprender el mensaje.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 44.6406px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;20%&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 141.969px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Trabajo en equipo y participación&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 331.797px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Todos los miembros participan de forma equilibrada y organizada. Excelente coordinación del grupo.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 241.297px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;La mayoría del grupo participa de forma adecuada.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 212.922px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Participación desigual entre los miembros del grupo.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 220.312px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Participación muy limitada o desorganización del grupo.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 44.6406px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;20%&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 141.969px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Uso de herramientas digitales (Audacity)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 331.797px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Uso autónomo y eficaz de la herramienta, con buena calidad de audio.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 241.297px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Uso autónomo y eficaz de la herramienta, con buena calidad de audio.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 212.922px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Dificultades en el uso de la herramienta o calidad mejorable del audio.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 220.312px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Uso muy limitado o incorrecto de la herramienta.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 44.6406px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;15%&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 141.969px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Reflexión y contenido matemático&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 331.797px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Explica con claridad lo aprendido, dificultades y relación con los ODS de forma profunda.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 241.297px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Incluye aprendizajes y ODS de forma adecuada.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 212.922px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Reflexión superficial o incompleta.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 220.312px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;No hay reflexión clara sobre el proceso o contenidos.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border-style: solid; border-color: #000000; width: 44.6406px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;15%&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="53"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <none></none>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="26"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="54"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="24"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="4"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Presentaci%C3%B3n%20de%20la%20actividad:R%C3%BAbricas%20de%20valoraci%C3%B3n:R%C3%BAbrica%20Podcast"></string>
+           <string role="key" value="parent"></string>
+           <reference key="40"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="54">
+      <instance class="exe.engine.node.Node" reference="57">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Actividad interactiva"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.truefalseidevice.TrueFalseIdevice" reference="52">
+         <instance class="exe.engine.truefalseidevice.TrueFalseIdevice" reference="55">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="True-False Question"></unicode>
            <string role="key" value="instructionsForLearners"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="53">
+           <instance class="exe.engine.field.TextAreaField" reference="56">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="112"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="52"></reference>
+             <reference key="55"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Provide instruction on how the True/False Question should be 
 completed."></unicode>
@@ -3296,7 +3573,7 @@ completed."></unicode>
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="53"></reference>
+               <reference key="56"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -3304,7 +3581,7 @@ completed."></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="54"></reference>
+             <reference key="57"></reference>
             </dictionary>
            </instance>
            <string role="key" value="_author"></string>
@@ -3346,18 +3623,18 @@ be ambiguous."></unicode>
            <string role="key" value="originalicon"></string>
            <unicode value="question"></unicode>
            <string role="key" value="parentNode"></string>
-           <reference key="54"></reference>
+           <reference key="57"></reference>
            <string role="key" value="questions"></string>
            <list>
             <instance class="exe.engine.truefalseidevice.TrueFalseQuestion">
              <dictionary>
               <string role="key" value="questionTextArea"></string>
-              <instance class="exe.engine.field.TextAreaField" reference="55">
+              <instance class="exe.engine.field.TextAreaField" reference="58">
                <dictionary>
                 <string role="key" value="_id"></string>
                 <int value="109"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Escriba la pregunta. La pregunta 
 debe ser clara y no ambigua. Evite las premisas negativas ya que esta tienden a 
@@ -3384,7 +3661,7 @@ ser ambiguas."></unicode>
                   <string role="key" value=".listitems"></string>
                   <list></list>
                   <string role="key" value="idevice"></string>
-                  <reference key="55"></reference>
+                  <reference key="58"></reference>
                  </dictionary>
                 </instance>
                 <string role="key" value="intlinks_to_anchors"></string>
@@ -3392,16 +3669,16 @@ ser ambiguas."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="feedbackTextArea"></string>
-              <instance class="exe.engine.field.TextAreaField" reference="56">
+              <instance class="exe.engine.field.TextAreaField" reference="59">
                <dictionary>
                 <string role="key" value="_id"></string>
                 <int value="110"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Introduzca la retroalimentación que quiere 
 que vean los estudiantes después de haber intentado completar la actividad. 
@@ -3426,141 +3703,6 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                   <string role="key" value=".listitems"></string>
                   <list></list>
                   <string role="key" value="idevice"></string>
-                  <reference key="56"></reference>
-                 </dictionary>
-                </instance>
-                <string role="key" value="intlinks_to_anchors"></string>
-                <dictionary></dictionary>
-                <string role="key" value="nextImageId"></string>
-                <int value="0"></int>
-                <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
-               </dictionary>
-              </instance>
-              <string role="key" value="hintTextArea"></string>
-              <instance class="exe.engine.field.TextAreaField" reference="57">
-               <dictionary>
-                <string role="key" value="_id"></string>
-                <int value="111"></int>
-                <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
-                <string role="key" value="_instruc"></string>
-                <unicode value="Se puede proporcionar una pista para ayudar al 
-estudiante a responder la pregunta."></unicode>
-                <string role="key" value="_name"></string>
-                <unicode value="Hint"></unicode>
-                <string role="key" value="anchor_names"></string>
-                <list></list>
-                <string role="key" value="anchors_linked_from_fields"></string>
-                <dictionary></dictionary>
-                <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value=""></unicode>
-                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                <int value="4"></int>
-                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-                <int value="2"></int>
-                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-                <int value="3"></int>
-                <string role="key" value="images"></string>
-                <instance class="exe.engine.galleryidevice.GalleryImages">
-                 <dictionary>
-                  <string role="key" value=".listitems"></string>
-                  <list></list>
-                  <string role="key" value="idevice"></string>
-                  <reference key="57"></reference>
-                 </dictionary>
-                </instance>
-                <string role="key" value="intlinks_to_anchors"></string>
-                <dictionary></dictionary>
-                <string role="key" value="nextImageId"></string>
-                <int value="0"></int>
-                <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
-               </dictionary>
-              </instance>
-              <string role="key" value="idevice"></string>
-              <reference key="52"></reference>
-              <string role="key" value="isCorrect"></string>
-              <bool value="0"></bool>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.truefalseidevice.TrueFalseQuestion">
-             <dictionary>
-              <string role="key" value="questionTextArea"></string>
-              <instance class="exe.engine.field.TextAreaField" reference="58">
-               <dictionary>
-                <string role="key" value="_id"></string>
-                <int value="268"></int>
-                <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
-                <string role="key" value="_instruc"></string>
-                <unicode value="Escriba la pregunta. La pregunta 
-debe ser clara y no ambigua. Evite las premisas negativas ya que esta tienden a 
-ser ambiguas."></unicode>
-                <string role="key" value="_name"></string>
-                <unicode value="Question:"></unicode>
-                <string role="key" value="anchor_names"></string>
-                <list></list>
-                <string role="key" value="anchors_linked_from_fields"></string>
-                <dictionary></dictionary>
-                <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;2.- Las escalas no se utilizan en planos arquitectónicos.&lt;/span&gt;&lt;/p&gt;"></unicode>
-                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                <int value="4"></int>
-                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-                <int value="2"></int>
-                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-                <int value="3"></int>
-                <string role="key" value="htmlTag"></string>
-                <string value="div"></string>
-                <string role="key" value="images"></string>
-                <instance class="exe.engine.galleryidevice.GalleryImages">
-                 <dictionary>
-                  <string role="key" value=".listitems"></string>
-                  <list></list>
-                  <string role="key" value="idevice"></string>
-                  <reference key="58"></reference>
-                 </dictionary>
-                </instance>
-                <string role="key" value="intlinks_to_anchors"></string>
-                <dictionary></dictionary>
-                <string role="key" value="nextImageId"></string>
-                <int value="0"></int>
-                <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
-               </dictionary>
-              </instance>
-              <string role="key" value="feedbackTextArea"></string>
-              <instance class="exe.engine.field.TextAreaField" reference="59">
-               <dictionary>
-                <string role="key" value="_id"></string>
-                <int value="269"></int>
-                <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
-                <string role="key" value="_instruc"></string>
-                <unicode value="Introduzca la retroalimentación que quiere 
-que vean los estudiantes después de haber intentado completar la actividad. 
-Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la retroalimentación por defecto."></unicode>
-                <string role="key" value="_name"></string>
-                <unicode value="Feedback"></unicode>
-                <string role="key" value="anchor_names"></string>
-                <list></list>
-                <string role="key" value="anchors_linked_from_fields"></string>
-                <dictionary></dictionary>
-                <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Incorrecto. Las escalas son fundamentales en los planos arquitectónicos, ya que permiten representar espacios reales de forma proporcional en un dibujo reducido.&lt;/span&gt;&lt;/p&gt;"></unicode>
-                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                <int value="4"></int>
-                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-                <int value="2"></int>
-                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-                <int value="3"></int>
-                <string role="key" value="images"></string>
-                <instance class="exe.engine.galleryidevice.GalleryImages">
-                 <dictionary>
-                  <string role="key" value=".listitems"></string>
-                  <list></list>
-                  <string role="key" value="idevice"></string>
                   <reference key="59"></reference>
                  </dictionary>
                 </instance>
@@ -3569,16 +3711,16 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="hintTextArea"></string>
               <instance class="exe.engine.field.TextAreaField" reference="60">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="270"></int>
+                <int value="111"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Se puede proporcionar una pista para ayudar al 
 estudiante a responder la pregunta."></unicode>
@@ -3610,11 +3752,11 @@ estudiante a responder la pregunta."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="idevice"></string>
-              <reference key="52"></reference>
+              <reference key="55"></reference>
               <string role="key" value="isCorrect"></string>
               <bool value="0"></bool>
              </dictionary>
@@ -3625,9 +3767,9 @@ estudiante a responder la pregunta."></unicode>
               <instance class="exe.engine.field.TextAreaField" reference="61">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="271"></int>
+                <int value="268"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Escriba la pregunta. La pregunta 
 debe ser clara y no ambigua. Evite las premisas negativas ya que esta tienden a 
@@ -3639,7 +3781,7 @@ ser ambiguas."></unicode>
                 <string role="key" value="anchors_linked_from_fields"></string>
                 <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;3.- Las escalas se utilizan para representar objetos grandes en espacios pequeños.&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;2.- Las escalas no se utilizan en planos arquitectónicos.&lt;/span&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -3662,16 +3804,16 @@ ser ambiguas."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="feedbackTextArea"></string>
               <instance class="exe.engine.field.TextAreaField" reference="62">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="272"></int>
+                <int value="269"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Introduzca la retroalimentación que quiere 
 que vean los estudiantes después de haber intentado completar la actividad. 
@@ -3683,7 +3825,7 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                 <string role="key" value="anchors_linked_from_fields"></string>
                 <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Correcto. Las escalas permiten representar objetos o espacios reales de gran tamaño en un tamaño reducido, manteniendo siempre las proporciones.&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Incorrecto. Las escalas son fundamentales en los planos arquitectónicos, ya que permiten representar espacios reales de forma proporcional en un dibujo reducido.&lt;/span&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -3704,16 +3846,16 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="hintTextArea"></string>
               <instance class="exe.engine.field.TextAreaField" reference="63">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="273"></int>
+                <int value="270"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Se puede proporcionar una pista para ayudar al 
 estudiante a responder la pregunta."></unicode>
@@ -3745,13 +3887,13 @@ estudiante a responder la pregunta."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="idevice"></string>
-              <reference key="52"></reference>
+              <reference key="55"></reference>
               <string role="key" value="isCorrect"></string>
-              <bool value="1"></bool>
+              <bool value="0"></bool>
              </dictionary>
             </instance>
             <instance class="exe.engine.truefalseidevice.TrueFalseQuestion">
@@ -3760,9 +3902,9 @@ estudiante a responder la pregunta."></unicode>
               <instance class="exe.engine.field.TextAreaField" reference="64">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="274"></int>
+                <int value="271"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Escriba la pregunta. La pregunta 
 debe ser clara y no ambigua. Evite las premisas negativas ya que esta tienden a 
@@ -3774,7 +3916,7 @@ ser ambiguas."></unicode>
                 <string role="key" value="anchors_linked_from_fields"></string>
                 <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;4.- Las escalas pueden ser de reducción o de ampliación. &lt;/span&gt;&lt;/p&gt;"></unicode>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;3.- Las escalas se utilizan para representar objetos grandes en espacios pequeños.&lt;/span&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -3797,16 +3939,16 @@ ser ambiguas."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="feedbackTextArea"></string>
               <instance class="exe.engine.field.TextAreaField" reference="65">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="275"></int>
+                <int value="272"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Introduzca la retroalimentación que quiere 
 que vean los estudiantes después de haber intentado completar la actividad. 
@@ -3818,7 +3960,7 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                 <string role="key" value="anchors_linked_from_fields"></string>
                 <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Correcto. Las escalas pueden reducir el tamaño de un objeto (cuando la representación es menor que la realidad) o ampliarlo (cuando la representación es mayor que el objeto real).&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Correcto. Las escalas permiten representar objetos o espacios reales de gran tamaño en un tamaño reducido, manteniendo siempre las proporciones.&lt;/span&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -3839,16 +3981,16 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="hintTextArea"></string>
               <instance class="exe.engine.field.TextAreaField" reference="66">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="276"></int>
+                <int value="273"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Se puede proporcionar una pista para ayudar al 
 estudiante a responder la pregunta."></unicode>
@@ -3880,11 +4022,11 @@ estudiante a responder la pregunta."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="idevice"></string>
-              <reference key="52"></reference>
+              <reference key="55"></reference>
               <string role="key" value="isCorrect"></string>
               <bool value="1"></bool>
              </dictionary>
@@ -3895,9 +4037,9 @@ estudiante a responder la pregunta."></unicode>
               <instance class="exe.engine.field.TextAreaField" reference="67">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="280"></int>
+                <int value="274"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Escriba la pregunta. La pregunta 
 debe ser clara y no ambigua. Evite las premisas negativas ya que esta tienden a 
@@ -3909,7 +4051,7 @@ ser ambiguas."></unicode>
                 <string role="key" value="anchors_linked_from_fields"></string>
                 <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;5.- El área de una superficie se mide en unidades lineales como metros o centímetros.&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;4.- Las escalas pueden ser de reducción o de ampliación. &lt;/span&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -3932,16 +4074,16 @@ ser ambiguas."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="feedbackTextArea"></string>
               <instance class="exe.engine.field.TextAreaField" reference="68">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="281"></int>
+                <int value="275"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Introduzca la retroalimentación que quiere 
 que vean los estudiantes después de haber intentado completar la actividad. 
@@ -3953,7 +4095,7 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                 <string role="key" value="anchors_linked_from_fields"></string>
                 <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Correcto. Se mide en unidades cuadradas: m², cm²…&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Correcto. Las escalas pueden reducir el tamaño de un objeto (cuando la representación es menor que la realidad) o ampliarlo (cuando la representación es mayor que el objeto real).&lt;/span&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -3974,16 +4116,16 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="hintTextArea"></string>
               <instance class="exe.engine.field.TextAreaField" reference="69">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="282"></int>
+                <int value="276"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Se puede proporcionar una pista para ayudar al 
 estudiante a responder la pregunta."></unicode>
@@ -4015,13 +4157,13 @@ estudiante a responder la pregunta."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="idevice"></string>
-              <reference key="52"></reference>
+              <reference key="55"></reference>
               <string role="key" value="isCorrect"></string>
-              <bool value="0"></bool>
+              <bool value="1"></bool>
              </dictionary>
             </instance>
             <instance class="exe.engine.truefalseidevice.TrueFalseQuestion">
@@ -4030,9 +4172,9 @@ estudiante a responder la pregunta."></unicode>
               <instance class="exe.engine.field.TextAreaField" reference="70">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="283"></int>
+                <int value="280"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Escriba la pregunta. La pregunta 
 debe ser clara y no ambigua. Evite las premisas negativas ya que esta tienden a 
@@ -4044,7 +4186,7 @@ ser ambiguas."></unicode>
                 <string role="key" value="anchors_linked_from_fields"></string>
                 <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;6.- En una escala 1:100, 1 cm en el plano representa 100 cm en la realidad.&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;5.- El área de una superficie se mide en unidades lineales como metros o centímetros.&lt;/span&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -4067,16 +4209,16 @@ ser ambiguas."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="feedbackTextArea"></string>
               <instance class="exe.engine.field.TextAreaField" reference="71">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="284"></int>
+                <int value="281"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Introduzca la retroalimentación que quiere 
 que vean los estudiantes después de haber intentado completar la actividad. 
@@ -4088,7 +4230,7 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                 <string role="key" value="anchors_linked_from_fields"></string>
                 <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Muy bien!. La escala indica la relación entre el dibujo y la realidad.&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Correcto. Se mide en unidades cuadradas: m², cm²…&lt;/span&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -4109,16 +4251,16 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="hintTextArea"></string>
               <instance class="exe.engine.field.TextAreaField" reference="72">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="285"></int>
+                <int value="282"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Se puede proporcionar una pista para ayudar al 
 estudiante a responder la pregunta."></unicode>
@@ -4150,13 +4292,13 @@ estudiante a responder la pregunta."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="idevice"></string>
-              <reference key="52"></reference>
+              <reference key="55"></reference>
               <string role="key" value="isCorrect"></string>
-              <bool value="1"></bool>
+              <bool value="0"></bool>
              </dictionary>
             </instance>
             <instance class="exe.engine.truefalseidevice.TrueFalseQuestion">
@@ -4165,9 +4307,9 @@ estudiante a responder la pregunta."></unicode>
               <instance class="exe.engine.field.TextAreaField" reference="73">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="286"></int>
+                <int value="283"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Escriba la pregunta. La pregunta 
 debe ser clara y no ambigua. Evite las premisas negativas ya que esta tienden a 
@@ -4179,7 +4321,7 @@ ser ambiguas."></unicode>
                 <string role="key" value="anchors_linked_from_fields"></string>
                 <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;7.- Dos figuras son semejantes cuando tienen la misma forma y proporciones, aunque su tamaño sea diferente&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;6.- En una escala 1:100, 1 cm en el plano representa 100 cm en la realidad.&lt;/span&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -4202,16 +4344,16 @@ ser ambiguas."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="feedbackTextArea"></string>
               <instance class="exe.engine.field.TextAreaField" reference="74">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="287"></int>
+                <int value="284"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Introduzca la retroalimentación que quiere 
 que vean los estudiantes después de haber intentado completar la actividad. 
@@ -4223,7 +4365,7 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                 <string role="key" value="anchors_linked_from_fields"></string>
                 <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Muy bien. La semejanza implica misma forma y proporción.&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Muy bien!. La escala indica la relación entre el dibujo y la realidad.&lt;/span&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                 <int value="4"></int>
                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -4244,16 +4386,16 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="hintTextArea"></string>
               <instance class="exe.engine.field.TextAreaField" reference="75">
                <dictionary>
                 <string role="key" value="_id"></string>
-                <int value="288"></int>
+                <int value="285"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="52"></reference>
+                <reference key="55"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Se puede proporcionar una pista para ayudar al 
 estudiante a responder la pregunta."></unicode>
@@ -4285,11 +4427,146 @@ estudiante a responder la pregunta."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="54"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="idevice"></string>
-              <reference key="52"></reference>
+              <reference key="55"></reference>
+              <string role="key" value="isCorrect"></string>
+              <bool value="1"></bool>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.truefalseidevice.TrueFalseQuestion">
+             <dictionary>
+              <string role="key" value="questionTextArea"></string>
+              <instance class="exe.engine.field.TextAreaField" reference="76">
+               <dictionary>
+                <string role="key" value="_id"></string>
+                <int value="286"></int>
+                <string role="key" value="_idevice"></string>
+                <reference key="55"></reference>
+                <string role="key" value="_instruc"></string>
+                <unicode value="Escriba la pregunta. La pregunta 
+debe ser clara y no ambigua. Evite las premisas negativas ya que esta tienden a 
+ser ambiguas."></unicode>
+                <string role="key" value="_name"></string>
+                <unicode value="Question:"></unicode>
+                <string role="key" value="anchor_names"></string>
+                <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
+                <string role="key" value="content_w_resourcePaths"></string>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;7.- Dos figuras son semejantes cuando tienen la misma forma y proporciones, aunque su tamaño sea diferente&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                <int value="4"></int>
+                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                <int value="2"></int>
+                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="htmlTag"></string>
+                <string value="div"></string>
+                <string role="key" value="images"></string>
+                <instance class="exe.engine.galleryidevice.GalleryImages">
+                 <dictionary>
+                  <string role="key" value=".listitems"></string>
+                  <list></list>
+                  <string role="key" value="idevice"></string>
+                  <reference key="76"></reference>
+                 </dictionary>
+                </instance>
+                <string role="key" value="intlinks_to_anchors"></string>
+                <dictionary></dictionary>
+                <string role="key" value="nextImageId"></string>
+                <int value="0"></int>
+                <string role="key" value="parentNode"></string>
+                <reference key="57"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="feedbackTextArea"></string>
+              <instance class="exe.engine.field.TextAreaField" reference="77">
+               <dictionary>
+                <string role="key" value="_id"></string>
+                <int value="287"></int>
+                <string role="key" value="_idevice"></string>
+                <reference key="55"></reference>
+                <string role="key" value="_instruc"></string>
+                <unicode value="Introduzca la retroalimentación que quiere 
+que vean los estudiantes después de haber intentado completar la actividad. 
+Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la retroalimentación por defecto."></unicode>
+                <string role="key" value="_name"></string>
+                <unicode value="Feedback"></unicode>
+                <string role="key" value="anchor_names"></string>
+                <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
+                <string role="key" value="content_w_resourcePaths"></string>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Muy bien. La semejanza implica misma forma y proporción.&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                <int value="4"></int>
+                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                <int value="2"></int>
+                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="images"></string>
+                <instance class="exe.engine.galleryidevice.GalleryImages">
+                 <dictionary>
+                  <string role="key" value=".listitems"></string>
+                  <list></list>
+                  <string role="key" value="idevice"></string>
+                  <reference key="77"></reference>
+                 </dictionary>
+                </instance>
+                <string role="key" value="intlinks_to_anchors"></string>
+                <dictionary></dictionary>
+                <string role="key" value="nextImageId"></string>
+                <int value="0"></int>
+                <string role="key" value="parentNode"></string>
+                <reference key="57"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="hintTextArea"></string>
+              <instance class="exe.engine.field.TextAreaField" reference="78">
+               <dictionary>
+                <string role="key" value="_id"></string>
+                <int value="288"></int>
+                <string role="key" value="_idevice"></string>
+                <reference key="55"></reference>
+                <string role="key" value="_instruc"></string>
+                <unicode value="Se puede proporcionar una pista para ayudar al 
+estudiante a responder la pregunta."></unicode>
+                <string role="key" value="_name"></string>
+                <unicode value="Hint"></unicode>
+                <string role="key" value="anchor_names"></string>
+                <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
+                <string role="key" value="content_w_resourcePaths"></string>
+                <unicode content="true" value=""></unicode>
+                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                <int value="4"></int>
+                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                <int value="2"></int>
+                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="images"></string>
+                <instance class="exe.engine.galleryidevice.GalleryImages">
+                 <dictionary>
+                  <string role="key" value=".listitems"></string>
+                  <list></list>
+                  <string role="key" value="idevice"></string>
+                  <reference key="78"></reference>
+                 </dictionary>
+                </instance>
+                <string role="key" value="intlinks_to_anchors"></string>
+                <dictionary></dictionary>
+                <string role="key" value="nextImageId"></string>
+                <int value="0"></int>
+                <string role="key" value="parentNode"></string>
+                <reference key="57"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="idevice"></string>
+              <reference key="55"></reference>
               <string role="key" value="isCorrect"></string>
               <bool value="1"></bool>
              </dictionary>
@@ -4330,13 +4607,13 @@ estudiante a responder la pregunta."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="78">
+      <instance class="exe.engine.node.Node" reference="81">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Glosario de términos matemáticos"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="76">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="79">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -4397,12 +4674,12 @@ estudiante a responder la pregunta."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="77">
+            <instance class="exe.engine.field.TextAreaField" reference="80">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="130_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="76"></reference>
+              <reference key="79"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -4443,7 +4720,7 @@ estudiante a responder la pregunta."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="77"></reference>
+                <reference key="80"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -4451,7 +4728,7 @@ estudiante a responder la pregunta."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="78"></reference>
+              <reference key="81"></reference>
              </dictionary>
             </instance>
            </list>
@@ -4468,7 +4745,7 @@ estudiante a responder la pregunta."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="78"></reference>
+           <reference key="81"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -4500,13 +4777,13 @@ estudiante a responder la pregunta."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="81">
+      <instance class="exe.engine.node.Node" reference="84">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Autoría y descarga esta eXe"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="79">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="82">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Descarga el archivo fuente"></unicode>
@@ -4567,12 +4844,12 @@ estudiante a responder la pregunta."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="80">
+            <instance class="exe.engine.field.TextAreaField" reference="83">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="130_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="79"></reference>
+              <reference key="82"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -4617,7 +4894,7 @@ estudiante a responder la pregunta."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="80"></reference>
+                <reference key="83"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -4625,7 +4902,7 @@ estudiante a responder la pregunta."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="81"></reference>
+              <reference key="84"></reference>
              </dictionary>
             </instance>
            </list>
@@ -4642,7 +4919,7 @@ estudiante a responder la pregunta."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="81"></reference>
+           <reference key="84"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -4694,15 +4971,17 @@ estudiante a responder la pregunta."></unicode>
    <unicode role="key" value="19"></unicode>
    <reference key="21"></reference>
    <unicode role="key" value="21"></unicode>
-   <reference key="54"></reference>
+   <reference key="57"></reference>
    <unicode role="key" value="22"></unicode>
-   <reference key="81"></reference>
+   <reference key="84"></reference>
+   <unicode role="key" value="24"></unicode>
+   <reference key="54"></reference>
    <unicode role="key" value="5"></unicode>
    <reference key="7"></reference>
    <unicode role="key" value="6"></unicode>
    <reference key="40"></reference>
    <unicode role="key" value="7"></unicode>
-   <reference key="78"></reference>
+   <reference key="81"></reference>
    <unicode role="key" value="8"></unicode>
    <reference key="10"></reference>
    <unicode role="key" value="9"></unicode>
@@ -4717,7 +4996,7 @@ estudiante a responder la pregunta."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="17"></reference>
+  <reference key="54"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
